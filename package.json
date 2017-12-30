@@ -1,0 +1,39 @@
+{
+  "name": "react-app",
+  "version": "1.0.0",
+  "description": "Practice react app",
+  "main": "webapp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "varunkrishna92"
+  },
+  "keywords": [
+    "react",
+    "node",
+    "express",
+    "mongo"
+  ],
+  "author": "Varun Krishna",
+  "license": "ISC",
+  "dependencies": {
+    "babelify": "^8.0.0",
+    "body-parser": "^1.18.2",
+    "browserify": "^14.5.0",
+    "create-react-class": "^15.6.2",
+    "express": "^4.16.2",
+    "gulp": "^3.9.1",
+    "jquery": "^3.2.1",
+    "mongodb": "^3.0.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "vinyl-source-stream": "^2.0.0",
+    "watchify": "^3.9.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react": "^6.24.1"
+  }
+}
